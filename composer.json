@@ -30,7 +30,6 @@
     }
   },
   "require": {
-    "wellcommerce/order-bundle": "^0.9@dev"
   },
   "extra": {
     "branch-alias": {
